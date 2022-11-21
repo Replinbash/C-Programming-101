@@ -1,2 +1,2 @@
 # C-Programming-101
-This repository is my C programming learning notes
+This repository is my introductory notes to programming
